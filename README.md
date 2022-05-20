@@ -1,3 +1,3 @@
 # T2
-just a learning repo for git commands
-`Thanks and regards`
+Just a learning repo for git commands<br/>
+<b>Thanks and regards</b>
